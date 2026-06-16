@@ -163,7 +163,6 @@ PERIODICOS = {
         "Journal of Oral and Maxillofacial Surgery": "J Oral Maxillofac Surg",
         "Clinical Oral Investigations":       "Clin Oral Investig",
         "Oral Radiology":                     "Oral Radiol",
-        "Dento-maxillo-facial Radiology":     "Dentomaxillofac Radiol",
     },
     "🔪 Subespecialidades Cirúrgicas": {
         "Annals of Surgery":                  "Ann Surg",
